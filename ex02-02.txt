@@ -1,0 +1,2 @@
+Greetings from the function scope!
+Greetings from the function scope!
